@@ -1,7 +1,7 @@
-# news_c8_online
+# news-app
 
 A new Flutter project.
-
+https://github.com/AbdullahGamal1/news_app/blob/main/README.md
 ## Getting Started
 
 This project is a starting point for a Flutter application.
